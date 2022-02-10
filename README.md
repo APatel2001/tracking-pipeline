@@ -7,12 +7,11 @@
 - And tracking algorithms like : Sort, Deepsort, Motpy, ByteTrack, Norfair
 
 
-## **PipeLine**
-  ![alt text](https://github.com/haok61bkhn/Tracking_Pipeline/blob/master/image/pipeline.jpg)
-
-
 
 ## **How to use sample** 
+
+### Setup
+  - pip -r requirements.txt
 
 ### Yolov5
 
@@ -43,20 +42,4 @@
 
 ## **References**
 
-  - https://github.com/Megvii-BaseDetection/YOLOX
-
-  - https://github.com/ultralytics/yolov5
-
-  - https://github.com/Tianxiaomo/pytorch-YOLOv4
-
-  - https://github.com/RangiLyu/nanodet
-
-  - https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
-
-  - https://github.com/abewley/sort
-
-  - https://github.com/ifzhang/ByteTrack
-
-  - https://github.com/tryolabs/norfair
-
-  - https://github.com/wmuron/motpy
+  Based on https://github.com/DaisyLabSolutions/tracking-pipeline
