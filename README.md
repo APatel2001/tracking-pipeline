@@ -11,7 +11,7 @@
 ## **How to use sample** 
 
 ### Setup
-  - pip -r requirements.txt
+  - pip install -r requirements.txt
 
 ### Yolov5
 
