@@ -40,6 +40,4 @@
 
 ### Modify algorithm in Tracking_Pipeline/tracking_config.yaml
 
-## **References**
-
-  Based on https://github.com/DaisyLabSolutions/tracking-pipeline
+Based on https://github.com/DaisyLabSolutions/tracking-pipeline
