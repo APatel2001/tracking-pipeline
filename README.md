@@ -39,5 +39,6 @@
   - put at : Tracking_Pipeline/Tracking/deep_sort/deep/checkpoint
 
 ### Modify algorithm in Tracking_Pipeline/tracking_config.yaml
+[ ] Update with OpenVINO Inferencing
 
 Based on https://github.com/DaisyLabSolutions/tracking-pipeline
